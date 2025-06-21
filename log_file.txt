@@ -1,0 +1,18 @@
+[2025-06-21 13:29:18] ETL job started.
+[2025-06-21 13:29:18] Extraction phase started.
+[2025-06-21 13:29:18] Extracting from CSV: C:\Users\ROHITH.M\OneDrive\Desktop\A Comprehensive ETL Workflow with Python for Data Engineers\UNZIPPED\source1.csv
+[2025-06-21 13:29:18] Extracting from JSON: C:\Users\ROHITH.M\OneDrive\Desktop\A Comprehensive ETL Workflow with Python for Data Engineers\UNZIPPED\source1.json
+[2025-06-21 13:29:18] Extracting from XML: C:\Users\ROHITH.M\OneDrive\Desktop\A Comprehensive ETL Workflow with Python for Data Engineers\UNZIPPED\source1.xml
+[2025-06-21 13:29:18] Extracting from CSV: C:\Users\ROHITH.M\OneDrive\Desktop\A Comprehensive ETL Workflow with Python for Data Engineers\UNZIPPED\source2.csv
+[2025-06-21 13:29:18] Extracting from JSON: C:\Users\ROHITH.M\OneDrive\Desktop\A Comprehensive ETL Workflow with Python for Data Engineers\UNZIPPED\source2.json
+[2025-06-21 13:29:18] Extracting from XML: C:\Users\ROHITH.M\OneDrive\Desktop\A Comprehensive ETL Workflow with Python for Data Engineers\UNZIPPED\source2.xml
+[2025-06-21 13:29:18] Extracting from CSV: C:\Users\ROHITH.M\OneDrive\Desktop\A Comprehensive ETL Workflow with Python for Data Engineers\UNZIPPED\source3.csv
+[2025-06-21 13:29:18] Extracting from JSON: C:\Users\ROHITH.M\OneDrive\Desktop\A Comprehensive ETL Workflow with Python for Data Engineers\UNZIPPED\source3.json
+[2025-06-21 13:29:18] Extracting from XML: C:\Users\ROHITH.M\OneDrive\Desktop\A Comprehensive ETL Workflow with Python for Data Engineers\UNZIPPED\source3.xml
+[2025-06-21 13:29:18] Extraction phase completed.
+[2025-06-21 13:29:18] Transformation phase started.
+[2025-06-21 13:29:18] Transformation phase completed.
+[2025-06-21 13:29:18] Loading phase started.
+[2025-06-21 13:29:18] Data successfully written to transformed_data.csv.
+[2025-06-21 13:29:18] Loading phase completed.
+[2025-06-21 13:29:18] ETL job finished.
